@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Ömer ÝÞIKER
-locale: tr_TR
+locale: en_EN
 description: Kim bilir belki bir gün karþýlaþýrýz.
 logo: site-logo.png
 search: true
