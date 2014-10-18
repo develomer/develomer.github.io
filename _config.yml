@@ -6,6 +6,7 @@ description: Kim bilir belki bir gun karsilasiriz.
 logo: site-logo.png
 search: true
 url: #develomer.github.io
+highlighter: rouge
 encoding: UTF-8
 
 # Jekyll configuration
