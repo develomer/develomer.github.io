@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: ÖmerÝÞIKER
+locale: tr_TR
+description: Kimbilir belki bir gün buralar dolar.
 logo: site-logo.png
 search: true
-url: 
+url: develomer.github.io
 
 
 # Jekyll configuration
@@ -32,20 +32,20 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Ömer 
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: omer.isiker@bil.omu.edu.tr	
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  twitter: https://twitter.com/developer521
+  facebook: https://www.facebook.com/developer521
+  github: https://github.com/develomer/
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  linkedin: https://www.linkedin.com/in/develomer
+  instagram: http://instagram.com/develomer
   flickr: #username
   tumblr: #username
   google:
-    plus: #username
+    plus: https://plus.google.com/u/0/+ÖmerIþýker
     analytics:
     verify:
     ad-client:
