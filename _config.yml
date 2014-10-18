@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: ÖmerÝÞIKER
+title: Omer ISIKER
 locale: tr_TR
-description: Kimbilir belki bir gün buralar dolar.
+description: Kimbilir belki bir gun buralar dolar.
 logo: site-logo.png
 search: true
 url: develomer.github.io
@@ -32,7 +32,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Ömer 
+  name: Omer 
   avatar: bio-photo.jpg
   email: omer.isiker@bil.omu.edu.tr	
   disqus-shortname:
