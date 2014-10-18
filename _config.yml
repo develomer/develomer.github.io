@@ -5,7 +5,7 @@ locale: en_EN
 description: Kimbilir belki bir gun buralar dolar.
 logo: site-logo.png
 search: true
-url: develomer.github.io
+url: #develomer.github.io
 
 
 # Jekyll configuration
