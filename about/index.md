@@ -3,7 +3,7 @@ encoding: utf-8
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
 layout: page
-title: Hakkýmda
+title: Hakkimda
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
