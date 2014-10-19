@@ -11,13 +11,13 @@ Bir gün her şey güzel olacak :)
 
 ##Hakkımda
 
-	Merhaba, 89 yılında Mardin'de doğunca taze evli mühendis amcam bu çocuğu Ömer
+  Merhaba, 89 yılında Mardin'de doğunca taze evli mühendis amcam bu çocuğu Ömer
 diye çağıralım demiş. O gün bugündür dili dönen herkes beni Ömer diye çağırır.
 Gittiğim 21 Kasım İlköğretim okulunda bana kürt arkadaşlarım tarafından takılan
 ve arap olmamdan sebep anlamını yıllarca yanlış bildiğim Babussoro lakabını
 saymazsak. Haaa birde kılpayı girmeyi başardığım Mardin Anadolu Lisesi'nde uzun
 süre "Uzun" diye çağırıldım. 
-	Lisede geçen 4. yılın sonunda girdiğim ilk sınavda pek başarısız
+  Lisede geçen 4. yılın sonunda girdiğim ilk sınavda pek başarısız
 bir sonuç aldım. Ondan sonraki yıl da durum pek farklı olmadı. Sınava 3.
 girişimde, artık gitmesem ayıp olur diyerek hayalim olan Bilgisayar Mühendisliği
 bölümünü burslu olarak kazandığım Azerbaycan Teknik Üniversitesi'ne doğru yola
@@ -28,7 +28,7 @@ yerini tutmaz diye düşünüp yatay geçiş şansımı kullandım ve güzel Sam
 uzatmayı göze almış olsam da şükürler olsun zamanında bitirebildim. Yaklaşık 6
 aydır ise özel bir şirkette Proje Mühendisi olarak çalışıyorum ve öğreniyorum. 
 
-	Site içeriğine gelecek olursak, temel paylaşımlarım teknik, şiir ve boş konuşma üzerine olacak.
+  Site içeriğine gelecek olursak, temel paylaşımlarım teknik, şiir ve boş konuşma üzerine olacak.
 Kimbilir belki bir gün boş şeyler işimize yarar :)
 
 ##Site Hakkında
