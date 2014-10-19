@@ -9,7 +9,7 @@ image:
 
 Bir gün her şey güzel olacak :)
 
-#Hakkımda
+##Hakkımda
 
 	Merhaba, 89 yılında Mardin'de doğunca taze evli mühendis amcam bu çocuğu Ömer
 diye çağıralım demiş. O gün bugündür dili dönen herkes beni Ömer diye çağırır.
