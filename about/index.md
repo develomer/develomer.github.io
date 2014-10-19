@@ -17,6 +17,7 @@ Gittiğim 21 Kasım İlköğretim okulunda bana kürt arkadaşlarım tarafından
 ve arap olmamdan sebep anlamını yıllarca yanlış bildiğim Babussoro lakabını
 saymazsak. Haaa birde kılpayı girmeyi başardığım Mardin Anadolu Lisesi'nde uzun
 süre "Uzun" diye çağırıldım. 
+
   Lisede geçen 4. yılın sonunda girdiğim ilk sınavda pek başarısız
 bir sonuç aldım. Ondan sonraki yıl da durum pek farklı olmadı. Sınava 3.
 girişimde, artık gitmesem ayıp olur diyerek hayalim olan Bilgisayar Mühendisliği
@@ -33,4 +34,4 @@ Kimbilir belki bir gün boş şeyler işimize yarar :)
 
 ##Site Hakkında
 
-Site başlangıç aşamasında olsa da bu bilgileri paylaşmakta zarar görmüyorum. Bu siteyi hazırlarken Jekyll Frameworkü kullandım. Hosting işini ise Github'a yıktım.
+  Site başlangıç aşamasında olsa da bu bilgileri paylaşmakta zarar görmüyorum. Bu siteyi hazırlarken Jekyll Frameworkü kullandım. Hosting işini ise Github'a yıktım.
