@@ -4,7 +4,7 @@ title: Yazılar
 excerpt: "An archive of articles sorted by date."
 
 image:
-  feature: articles.jpg
+  feature: articles.png
 ---
 
 <ul class="post-list">
