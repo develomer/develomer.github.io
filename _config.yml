@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: OmerISIKER
-locale: en_EN
-description: Kim bilir belki bir gun karsilasiriz.
+title: Ömer İŞIKER
+locale: tr_TR
+description: Kim bilir belki bir gün karşılaşırız
 logo: site-logo.png
 search: true
 url: #develomer.github.io
