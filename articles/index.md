@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Sample Articles
+title: Teknik Yazılar
 excerpt: "An archive of articles sorted by date."
+
 image:
-  feature:articles.jpg
+  feature: articles.jpg
 ---
 
 <ul class="post-list">
