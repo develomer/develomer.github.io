@@ -2,6 +2,8 @@
 layout: page
 title: Sample Articles
 excerpt: "An archive of articles sorted by date."
+image:
+  feature:articles.jpg
 ---
 
 <ul class="post-list">
