@@ -1,21 +1,31 @@
 ---
-encoding: utf-8
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
-
 layout: page
 title: Hakkimda
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: hakkimda.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Bir gun her sey guzel olacak :)
 
-## Markdown Deneme
+#Hakkımda
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+Merhaba, 89 yılında Mardin'de doğunca taze evli mühendis amcam bu çocuğu Ömer
+diye çağıralım demiş. O gün bugündür dili dönen herkes beni Ömer diye çağırır.
+Gittiğim 21 Kasım İlköğretim okulunda bana kürt arkadaşlarım tarafından takılan
+ve arap olmamdan sebep anlamını yıllarca yanlış bildiğim Babussoro lakabını
+saymazsak. Haaa birde kılpayı girmeyi başardığım Mardin Anadolu Lisesi'nde uzun
+süre "Uzun" diye çağırıldım. 4 yılın sonunda girdiğim ilk sınavda pek başarısız
+bir sonuç aldım. Ondan sonraki yıl da durum pek farklı olmadı. Sınava 3.
+girişimde, artık gitmesem ayıp olur diyerek hayalim olan Bilgisayar Mühendisliği
+bölümünü burslu olarak kazandığım Azerbaycan Teknik Üniversitesi'ne doğru yola
+çıktım. Ne güzel günlerdi demeden geçemeyeceğim ve 1 yılı rusça hazırlık eğitimi
+olan 2 yılım orada geçti. Bakü'de günler her ne kadar güzel geçse de Türkiyem'in
+yerini tutmaz diye düşünüp yatay geçiş şansımı kullandım ve güzel Samsun'umuzda
+1975'te kurulan Ondokuz Mayıs Üniversitesi'ne yatay geçiş yaptım. Gelirken okulu
+uzatmayı göze almış olsam da şükürler olsun zamanında bitirebildim. Yaklaşık 6
+aydır ise özel bir şirkette Proje Mühendisi olarak çalışıyorum ve öğreniyorum. 
 
-[^1]: Example: *domain.com/category-name/post-title*
+Site içeriğine gelecek olursak, temel paylaşımlarım teknik, şiir ve boş konuşma üzerine olacak.
+Kimbilir belki bir gün boş şeyler işimize yarar :)
