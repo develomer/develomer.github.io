@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Yazılar
+title: Siirler
 excerpt: "An archive of articles sorted by date."
 
 image:
-  feature: articles.jpg
+  feature: siirler.jpg
 ---
 
 <ul class="post-list">
