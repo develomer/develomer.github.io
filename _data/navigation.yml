@@ -1,16 +1,13 @@
 # Site navigation links
 
-- title: Hakkında
+- title: Hakkımda
   url: /about/
 
-- title: Yazılar
+- title: Blog
   url: /articles/
 
 - title: Özet-Çeviri
   url: /translates/
 
-- title: Blog
-  url: /blog/
-
-- title: Şiirler
-  url: /siirler/
+- title: Boş Bulunmuşluklarım
+  url: /freetimes/
