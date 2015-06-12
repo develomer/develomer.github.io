@@ -2,9 +2,9 @@
 layout: post
 title: AngularJS Nedir?
 excerpt: "AngularJS Nedir?"
-modified: 2015-06-11
 categories: articles
-tags: [sample-post]
+comments: true
+share: true
 ---
 
 

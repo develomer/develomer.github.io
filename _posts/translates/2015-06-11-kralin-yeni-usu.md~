@@ -3,11 +3,8 @@ layout: post
 title: "Kralın Yeni Usu"
 modified:
 categories: translates
-excerpt:
-tags: []
-image:
-  feature:
-date: 2015-06-11T15:39:55-04:00
+comments: true
+share: true
 ---
 
 #Bilgisayar ve Zeka
@@ -63,10 +60,3 @@ Turing makinesi kavramı ise daha farklı bir kavramdır. Şu an için sadece sa
  Karmaşıklık teorisi bu konular açısından önemlidir.Nesnelerin algoritmik olup olmadığı sorusundan ayrı olarak, algoritmik oldukları bilinen şeyler " gerçekten yeterince algoritmikmidir? "  sorusuna çözüm arar ya da inceler.
  Sonuç olarak bir istediğimiz gibi bir turing makinesi tasarlamak istiyorsak şu an kullandığımız algoritmalar buna yetecek seviyede değildir. Hatta bunu tasarlamak için ihtiyacımız olan şey algoritma dışında birşey de olabilir. Bu konuyu daha derin incelemek gerekir. Dolayısıyla böyle bir hayalde yararlanacağımız konulardan bazıları fizikte yer almaktadır. Son olarak hepimiz matematiğe göre dünyevi varklıklarız, o sonsuzdur.
 
-Yazar - Roger PENROSE
-
-Çeviri - Tekin DERELİ
-
-Redaksiyon - Ülker ERKAN
-
-Özetleyen - Ömer İŞIKER

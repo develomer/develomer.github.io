@@ -3,11 +3,8 @@ layout: post
 title: "Rakamların Evrensel Tarihi - 9"
 modified:
 categories: translates
-excerpt:
-tags: []
-image:
-  feature:
-date: 2015-06-11T15:39:55-04:00
+comments: true
+share: true
 ---
 
 #Bilgisayar Ne Sayar ?
