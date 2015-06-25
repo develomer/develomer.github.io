@@ -28,6 +28,3 @@ aydır ise özel bir şirkette Proje Mühendisi olarak çalışıyorum ve öğre
   Site içeriğine gelecek olursak, temel paylaşımlarım teknik, şiir ve boş konuşma üzerine olacak.
 Kimbilir belki bir gün boş şeyler işimize yarar :)
 
-##Site Hakkında
-
-  Site başlangıç aşamasında olsa da bu bilgileri paylaşmakta zarar görmüyorum. Bu siteyi hazırlarken Jekyll Frameworkü kullandım. Hosting işini ise Github'a yıktım.
