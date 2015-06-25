@@ -22,5 +22,5 @@ bölümünü burslu olarak kazandığım Azerbaycan Teknik Üniversitesi'ne doğ
 olan 2 yılım orada geçti. Bakü'de günler her ne kadar güzel geçse de Türkiyem'in
 yerini tutmaz diye düşünüp yatay geçiş şansımı kullandım ve güzel Samsun'umuzda
 1975'te kurulan Ondokuz Mayıs Üniversitesi'ne yatay geçiş yaptım. Gelirken okulu
-uzatmayı göze almış olsam da şükürler olsun zamanında bitirebildim. Yaklaşık 6
-aydır ise özel bir şirkette Proje Mühendisi olarak çalışıyorum ve öğreniyorum. 
+uzatmayı göze almış olsam da şükürler olsun zamanında bitirebildim. Yaklaşık 1
+yıldır ise özel bir şirkette Proje Mühendisi olarak çalışıyorum ve öğreniyorum. 
