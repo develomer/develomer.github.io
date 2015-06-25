@@ -45,7 +45,7 @@ string text = "1111111111111111" +
 	"\n\n666666666666666666666666666";
 ```
                       
-Sıra işi yapacak sınıfı eklemekte. Aşağıdaki kod satırlarını ekliyoruz.
+Sıra işi yapacak kısmı eklemekte. Aşağıdaki kod satırlarını ekliyoruz.
 
 ```csharp
 public static void SetNotifyIconText(NotifyIcon notifyTest, string text)

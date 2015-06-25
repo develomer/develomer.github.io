@@ -24,7 +24,3 @@ yerini tutmaz diye düşünüp yatay geçiş şansımı kullandım ve güzel Sam
 1975'te kurulan Ondokuz Mayıs Üniversitesi'ne yatay geçiş yaptım. Gelirken okulu
 uzatmayı göze almış olsam da şükürler olsun zamanında bitirebildim. Yaklaşık 6
 aydır ise özel bir şirkette Proje Mühendisi olarak çalışıyorum ve öğreniyorum. 
-
-  Site içeriğine gelecek olursak, temel paylaşımlarım teknik, şiir ve boş konuşma üzerine olacak.
-Kimbilir belki bir gün boş şeyler işimize yarar :)
-
