@@ -1,4 +1,4 @@
-# Site wide configuration
+﻿# Site wide configuration
 
 title: Ömer İŞIKER
 locale: tr_TR
@@ -37,7 +37,7 @@ owner:
   avatar: bio-photo.jpg
   email: omer.isiker@bil.omu.edu.tr	
   disqus-shortname:
-  twitter: developer521
+ omerisiker  twitter: developer521
   facebook: developer521
   github: develomer
   stackexchange: #http://stackoverflow.com/users/123456/username
