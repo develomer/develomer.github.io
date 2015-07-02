@@ -47,7 +47,7 @@ owner:
   tumblr: #username
   google:
     plus: ÖmerIşıker
-    analytics: UA-64742672-1
+    analytics: true
     verify:
     ad-client:
     ad-slot: 
