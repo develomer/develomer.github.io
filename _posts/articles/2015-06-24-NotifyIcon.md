@@ -5,6 +5,7 @@ excerpt: "NotifyIcon 63 Karakter Sorunu"
 categories: articles
 comments: true
 share: true
+analytics: true
 tags: [notifyicon sorunu, c# notify icon karakter]
 ---
 

@@ -4,6 +4,7 @@ title: "Kralın Yeni Usu"
 modified:
 categories: translates
 comments: true
+analytics: true
 share: true
 ---
 

@@ -2,6 +2,7 @@
 layout: page
 title: Hakkımda
 excerpt: "Hakkımda"
+analytics: true
 image:
   feature: hakkimda.jpg
 ---

@@ -4,6 +4,7 @@ title: "Rakamların Evrensel Tarihi - 9"
 modified:
 categories: translates
 comments: true
+analytics: true
 share: true
 ---
 

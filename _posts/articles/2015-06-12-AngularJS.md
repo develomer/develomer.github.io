@@ -4,6 +4,7 @@ title: AngularJS Nedir?
 excerpt: "AngularJS Nedir?"
 categories: articles
 comments: true
+analytics: true
 share: true
 ---
 

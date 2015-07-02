@@ -3,6 +3,7 @@ layout: post
 title: "Sen Beyaz Bir Kadınsın"
 categories: freetimes
 comments: true
+analytics: true
 share: true
 ---
 
