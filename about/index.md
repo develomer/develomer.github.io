@@ -32,4 +32,4 @@ Bendenizle ilgili **gerekli** bilgiler ise aşağıda bulunan linkte :)
 
 ---
 
-**[Güncel CV için...](https://drive.google.com/a/bil.omu.edu.tr/file/d/0B0Jt8WB-ggdAbW1JUHVXVTRDS3M/view "26.06.2015")**
+**[Güncel CV için...](https://drive.google.com/a/bil.omu.edu.tr/file/d/0B0Jt8WB-ggdAbU0xc1ViX2o5SG8/view "26.06.2015")**
