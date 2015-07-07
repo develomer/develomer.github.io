@@ -32,6 +32,6 @@ Bendenizle ilgili **gerekli** bilgiler ise aşağıda bulunan linkte :)
 
 ---
 
-**[Özgeçmiş - ](https://drive.google.com/a/bil.omu.edu.tr/file/d/0B0Jt8WB-ggdAbU0xc1ViX2o5SG8/view "07.07.2015")(Son Güncelleme Tarihi: 07 Temmuz 2015**
+**[Özgeçmiş - ](https://drive.google.com/a/bil.omu.edu.tr/file/d/0B0Jt8WB-ggdAbU0xc1ViX2o5SG8/view "07.07.2015")Son Güncelleme Tarihi: 07 Temmuz 2015**
 
-**[Curriculum Vitae - ](https://drive.google.com/a/bil.omu.edu.tr/file/d/0B0Jt8WB-ggdAQ1RjMlhVZGFsMGM/view "07.07.2015")(Last Updated Date: 07 July 2015**
+**[Curriculum Vitae - ](https://drive.google.com/a/bil.omu.edu.tr/file/d/0B0Jt8WB-ggdAQ1RjMlhVZGFsMGM/view "07.07.2015")Last Updated Date: 07 July 2015**
