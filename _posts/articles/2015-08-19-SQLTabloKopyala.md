@@ -15,7 +15,7 @@ Merhaba,
 SQL'de bir tabloyu kopyalamak istiyorsak yapmamız gereken şey oldukça basit. Basitçe eski tabloyu yeni bir tablo adının içine ***SELECT*** ediyoruz.
 
 
-```csharp
+```sql
 SELECT * INTO KOPYATABLO FROM ORJINALTABLO
 ```
 
