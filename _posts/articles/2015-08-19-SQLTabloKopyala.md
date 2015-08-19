@@ -19,6 +19,6 @@ SQL'de bir tabloyu kopyalamak istiyorsak yapmamız gereken şey oldukça basit. 
 SELECT * INTO KOPYATABLO FROM ORJINALTABLO
 ```
 
-Bu basit SQL kodunu yazdığımızda tabloyu PRIMARY KEY ve INDEX gibi kısımları değil sadece veriyi aktarmış oluruz.
+Bu basit SQL kodunu yazdığımızda sadece tablo kolonları ve veriyi aktarmış oluyoruz. Bu SQL kodu ***PRIMARY KEY*** ve ***INDEX*** gibi kısımları aktarmamızı sağlamaz. 
 
 İyi çalışmalar...
