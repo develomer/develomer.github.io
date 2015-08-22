@@ -7,8 +7,6 @@ analytics: true
 share: true
 ---
 
-#Sen Beyaz Bir Kadınsın 
-
 Asıl büyük sarhoş benim  
 uzaktaki  
 ben ki tek damla şarap içmedim  
