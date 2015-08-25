@@ -11,10 +11,9 @@ tags: [T-SQL, LOOP, While, Döngü]
 
 Merhaba,
 
-İşim gereği bazen PL/SQL bazende T-SQL kodu yazmam gerekebiliyor. Birkaç gün önce bir arkadaşım ***WHERE*** koşulunu eklemeyi unutarak bir ***UPDATE*** işlemi yaptı. 
-Yedek alınmasına alınmıştı ama aradan birkaç gün geçtiği için arada oluşan veriler vardı. Dolayısıyla direkt olarak geriye dönülemiyordu. 
-Bu sorunu çözmenin birçok yolu vardı ama ben aşağıdaki T-SQL kodunu yazarak eski ve yeni tabloyu karşılaştırıp ID’lerin uyuşması durumunda gerekli kolondaki değeri değiştirme yöntemini seçtim.  
-Şimdi o kodu kolon vs isimlerini değiştirerek yazalım.
+İşim gereği bazen PL/SQL bazende T-SQL kodu yazmam gerekebiliyor. Birkaç gün önce bir arkadaşım ***WHERE*** koşulunu eklemeyi unutarak bir ***UPDATE*** işlemi yaptı. Yedek alınmasına alınmıştı ama 
+aradan birkaç gün geçtiği için arada oluşan veriler vardı. Dolayısıyla direkt olarak geriye dönülemiyordu. Bu sorunu çözmenin birçok yolu vardı ama ben aşağıdaki T-SQL kodunu yazarak eski ve yeni 
+tabloyu karşılaştırıp ID’lerin uyuşması durumunda gerekli kolondaki değeri değiştirme yöntemini seçtim. Şimdi o kodu kolon vs isimlerini değiştirerek yazalım.
 
 ```sql
 GO
@@ -25,7 +24,8 @@ SET @maxValue = (SELECT MAX(ID) FROM ORNEKTABLO_OLD);
 SET @counter = (SELECT MIN(ID) FROM ORNEKTABLO_OLD);
 WHILE @maxValue >= @counter
 BEGIN
-	SET @value = (SELECT ORNEKTABLO_OLD.DEGISMESIGEREKENKOLON FROM ORNEKTABLO_OLD WHERE ORNEKTABLO_OLD.ID = @counter);
+	SET @value = (SELECT ORNEKTABLO_OLD.DEGISMESIGEREKENKOLON FROM 
+					ORNEKTABLO_OLD WHERE ORNEKTABLO_OLD.ID = @counter);
 	IF @value IS NULL
 		IF @counter > @maxValue
 			BREAK
