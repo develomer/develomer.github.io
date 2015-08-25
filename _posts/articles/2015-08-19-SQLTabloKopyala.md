@@ -12,13 +12,13 @@ tags: [SQL, Tablo Kopyalama]
 
 Merhaba,
 
-SQL'de bir tabloyu kopyalamak istiyorsak yapmamız gereken şey oldukça basit. Basitçe eski tabloyu yeni bir tablo adının içine ***SELECT*** ediyoruz.
+SQL'de bir tabloyu kopyalamak istiyorsak yapmamız gereken şey oldukça basit. Eski tabloyu yeni bir tablo adının içine ***SELECT*** ediyoruz.
 
 
 ```sql
 SELECT * INTO KOPYATABLO FROM ORJINALTABLO
 ```
 
-Bu basit SQL kodunu yazdığımızda sadece tablo kolonları ve veriyi aktarmış oluyoruz. Bu SQL kodu ***PRIMARY KEY*** ve ***INDEX*** gibi kısımları aktarmamızı sağlamaz. 
+Bu SQL kodunu yazdığımızda sadece tablo kolonları ve veriyi aktarmış oluyoruz. Bu SQL kodu ***PRIMARY KEY*** ve ***INDEX*** gibi kısımları aktarmamızı sağlamaz. 
 
 İyi çalışmalar...
