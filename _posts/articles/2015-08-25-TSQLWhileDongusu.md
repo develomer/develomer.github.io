@@ -11,7 +11,7 @@ tags: [T-SQL, LOOP, While, Döngü]
 
 Merhaba,
 
-İşim gereği bazen PL/SQL bazende T-SQL kodu yazmam gerekebiliyor. Birkaç gün bir arkadaşım ***WHERE*** koşulunu eklemeyi unutarak bir UPDATE işlemi yaptı. 
+İşim gereği bazen PL/SQL bazende T-SQL kodu yazmam gerekebiliyor. Birkaç gün önce bir arkadaşım ***WHERE*** koşulunu eklemeyi unutarak bir ***UPDATE*** işlemi yaptı. 
 Yedek alınmasına alınmıştı ama aradan birkaç gün geçtiği için arada oluşan veriler vardı. Dolayısıyla direkt olarak geriye dönülemiyordu. 
 Bu sorunu çözmenin birçok yolu vardı ama ben aşağıdaki T-SQL kodunu yazarak eski ve yeni tabloyu karşılaştırıp ID’lerin uyuşması durumunda gerekli kolondaki değeri değiştirme yöntemini seçtim.  
 Şimdi o kodu kolon vs isimlerini değiştirerek yazalım.
