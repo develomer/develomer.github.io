@@ -7,7 +7,7 @@ analytics: true
 share: true
 ---
 
-Sevme beni göze güzel gözüken görkemim için
+Sevme beni göze güzel gözüken görkemim için<br>
 Sevindiren gözüm ya da yüzüm için,
 
 Ne de dışarıdan görünen hiç bir şeyim için:
