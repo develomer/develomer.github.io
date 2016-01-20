@@ -23,8 +23,8 @@ Jekyll statik site oluşturabileceğimiz, Ruby dilinde yazılmış bir uygulama.
 
 ![](../../images/2016-01-20-JekyllInstallation/1.png)
 
-Tabii bu klasör yapısı projeye göre değişkenlik gösterebilir. Ekran görüntüsünde gördüğümüz klasör yapısı **jekyll new testblog** komutunu çalıştırarak
-yeni bir jekyll projesi oluşturduktan sonra gördüğümüz ilk klasör yapısı. Bu konulara ve kullanıma daha sonra başka yazılarda değinmeye çalışacağım. Şimdilik
+Tabii bu dizin yapısı projeye göre değişkenlik gösterebilir. Ekran görüntüsünde gördüğümüz dizin yapısı **jekyll new testblog** komutunu çalıştırarak
+yeni bir jekyll projesi oluşturduktan sonra gördüğümüz ilk dizin yapısı. Bu konulara ve kullanıma daha sonra başka yazılarda değinmeye çalışacağım. Şimdilik
 kuruluma geçelim.
 
 ---
