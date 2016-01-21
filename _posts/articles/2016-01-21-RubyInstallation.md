@@ -12,7 +12,10 @@ tags: [Ruby, Ruby Kurulumu, Devkit, RubyInstaller]
 ##Giriş
 
 Merhaba,
-Bugün biraz Ruby dilinden bahsedeceğim. Ruby 1995 yılında Yukihiro Matsumoto tarafından geliştirilmeye başlanmıştır. 
+Bugün Windows işletim sisteminde Ruby kurulumunun nasıl yapıldığından bahsedeceğim. 
+
+####Ruby Nedir?
+Ruby 1995 yılında Yukihiro Matsumoto tarafından geliştirilmeye başlanmıştır. 
 Sözdizimi olarak Python diline benzerlik gösterse de temelde Python’daki eksiklikler üzerine geliştirilmiş bir programlama dilidir. 
 Birde nesneye yönelik programlama dili olduğunu belirtmeyi unutmayayım! Şimdi Ruby’i Windows makinemize nasıl kuruyoruz ona bakalım;
 
