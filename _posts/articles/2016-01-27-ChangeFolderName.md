@@ -18,9 +18,9 @@ seçtiğimiz yol altındaki tüm klasör adlarını değiştirebiliyoruz.
 
 ```csharp
 
-public void changeFolderName(string newName)
+public void changeFolderName(string foldersPath, string newName)
 {
-    DirectoryInfo dir = new DirectoryInfo("C:/Users/username/Desktop/testfolder/");
+    DirectoryInfo dir = new DirectoryInfo(foldersPath);
 
     foreach (var item in dir.GetDirectories())
     {
