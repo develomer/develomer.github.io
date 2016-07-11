@@ -8,8 +8,6 @@ analytics: true
 share: true
 ---
 
-#Neşeli Öyküler - Carlo M. Cipallo
-
 -   Sık sık kendi kendime yanıtı kolay olmayan sorular sorarım: 
 Örneğin, bu ya da şu ülkenin uygarlık düzeyi hakkındaki düşüncemi kendi kendime 
 sıkça sorduğum olur. Yarı şaka, yarı ciddi, yanıtım şu olur, bu konudaki yargım 
