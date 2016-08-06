@@ -11,10 +11,6 @@ tags: [Cloud Storage Test]
 
 ##Cloud Storage Test
 
-https://storage.googleapis.com/testbucketfordevelomer/images/2016-01-21-Rubylnstallation/1.png
-
-![my photo]({{ site.url }}/assets/foo.png)
-
 ![](https://storage.googleapis.com/testbucketfordevelomer/images/2015-06-12-AngularJS/logo.png)
 
 ![](https://storage.googleapis.com/testbucketfordevelomer/images/2015-06-12-AngularJS/compare.png)
